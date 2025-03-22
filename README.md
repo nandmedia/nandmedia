@@ -1,12 +1,22 @@
-- 👋 Hi, I’m @nandmedia
-- 👀 I’m interested in Learning...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: hehehehe...
-- ⚡ Fun fact: binbo...
+👋 Hey, I'm N&M
+🚀 UI/UX Designer | Webflow Developer | Blockchain Enthusiast
 
-<!---
-nandmedia/nandmedia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I specialize in crafting digital experiences with a focus on sleek design, functionality, and performance. Passionate about Web3, AI, and modern web development, I build user-friendly interfaces that leave an impact.
+
+💡 What I Do:
+
+🎨 UI/UX Design – Transforming ideas into intuitive interfaces
+
+🖥 Web Development – Frontend magic with HTML, CSS, JavaScript
+
+🌐 Webflow & No-Code – Building without limits
+
+🔗 Blockchain & DApps – Exploring the future of decentralized tech
+
+📌 Projects:
+🚀 N&M Portfolio
+💎 Artisium NFT Marketplace
+⚡ AllFORONE-AI
+
+📬 Let's Connect!
+💻 Portfolio | ✉️ noerumedia@gmail.com | 🐦 Twitter | 🔗 LinkedIn
