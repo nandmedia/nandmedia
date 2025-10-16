@@ -9,14 +9,14 @@ I specialize in crafting digital experiences with a focus on sleek design, funct
 
 🖥 Web Development – Frontend magic with HTML, CSS, JavaScript
 
-🌐 Webflow & No-Code – Building without limits
+🌐 Webflow & No-Code – Building with free limits
 
 🔗 Blockchain & DApps – Exploring the future of decentralized tech
 
 📌 Projects:
 🚀 N&M Portfolio
-💎 Artisium NFT Marketplace
-⚡ AllFORONE-AI
+💎 MUGNA Leather Arts https://mugna.vercel.app/
+⚡ 
 
 📬 Let's Connect!
 💻 Portfolio | ✉️ noerumedia@gmail.com | 🐦 Twitter | 🔗 LinkedIn
